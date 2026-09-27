@@ -21,7 +21,7 @@ ax.text(50, 97.6, "吞 噬 边 界 · 系列全貌",
         ha="center", va="center", fontsize=23, fontweight="bold", color="#111")
 ax.text(50, 94.3, "从 AI 产业现象，到宇宙结构，再到设备终局",
         ha="center", va="center", fontsize=12.5, color="#666")
-ax.text(50, 91.2, "6 篇正文 + 1 篇姊妹篇 + 2 篇技术附篇 + 15 张图",
+ax.text(50, 91.2, "6 篇正文 + 1 篇姊妹篇 + 2 篇技术附篇 + 16 张图",
         ha="center", va="center", fontsize=10.2, color="#999")
 
 descend = [
